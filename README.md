@@ -7,6 +7,8 @@
    ```bash
    mvn clean install
    ```
+# The swagger will be reachible by the following link: 
+http://localhost:8080/swagger-ui/index.html
 
 4. Run the application:
    ```bash
